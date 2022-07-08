@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmCargarFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAbrirTarea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTareas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

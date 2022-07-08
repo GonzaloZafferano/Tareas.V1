@@ -1,0 +1,64 @@
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.csproj.AssemblyReference.cache
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Vista.FrmAbrirTarea.resources
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Vista.FrmCargarFecha.resources
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Vista.FrmLog.resources
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Vista.FrmPassword.resources
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Vista.FrmTareas.resources
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.Properties.Resources.resources
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.csproj.GenerateResource.cache
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.AssemblyInfoInputs.cache
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.AssemblyInfo.cs
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\Tareas.exe
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\Tareas.deps.json
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\Tareas.runtimeconfig.json
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\Tareas.runtimeconfig.dev.json
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\Tareas.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\ref\Tareas.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\Tareas.pdb
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.csproj.CopyComplete
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\ref\Tareas.dll
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.pdb
+C:\Users\GONZALO\source\repos\Agenda\Agenda\obj\Debug\net5.0-windows\Tareas.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\Tareas.exe
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\Tareas.deps.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\Tareas.runtimeconfig.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\Tareas.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\Tareas.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\ref\Tareas.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\Tareas.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Vista.FrmAbrirTarea.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Vista.FrmCargarFecha.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Vista.FrmLog.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Vista.FrmPassword.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Vista.FrmTareas.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\ref\Tareas.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta (8)\Tareas\Tareas\obj\Debug\net5.0-windows\Tareas.genruntimeconfig.cache
